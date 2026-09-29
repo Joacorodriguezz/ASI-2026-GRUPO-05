@@ -10,7 +10,7 @@ spec:
   source:
     repoURL: https://github.com/Joacorodriguezz/ASI-2026-GRUPO-05.git
     targetRevision: main
-    path: app
+    path: argo-demo/app
   destination:
     server: https://kubernetes.default.svc
     namespace: demo

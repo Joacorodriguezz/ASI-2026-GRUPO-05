@@ -6,7 +6,7 @@ metadata:
   labels:
     app: demo-nginx
 spec:
-  replicas: 1        # <-- en la demo se cambia a 3 desde GitHub
+  replicas: 3     # <-- en la demo se cambia a 3 desde GitHub
   selector:
     matchLabels:
       app: demo-nginx

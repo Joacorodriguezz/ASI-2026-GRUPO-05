@@ -12,7 +12,7 @@ data:
     <head><meta charset="utf-8"><title>Demo Argo CD</title></head>
     <body style="font-family:sans-serif;text-align:center;margin-top:15vh;background:#eef3fb">
       <h1>TP Integrador - ARGO</h1>
-      <h2>Versión 2</h2>
+      <h2>Versión 1</h2>
       <p>Desplegado automáticamente por Argo CD desde GitHub</p>
     </body>
     </html>
